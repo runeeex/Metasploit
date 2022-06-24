@@ -37,6 +37,6 @@ buat exploit handler dengan perintah
 
 kemudian tunggu target/korban membuka aplikasi yang sudah di kirim tadi
 
-> >? (untuk melihat apa saja perintah yang dapat dilakukan)
+> #? (untuk melihat menu apa saja perintah yang dapat dilakukan)
 
 selamat kamu telah menyadap hp target/korban mu :)
