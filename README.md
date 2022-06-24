@@ -2,7 +2,7 @@
 
 # Android Attack 
 
-![image.png]( {link gambar} ) 
+![image.png]( {https://bahrunsyah.xyz} ) 
 > $sudo apt update
 
 > $sudo apt upgrade
